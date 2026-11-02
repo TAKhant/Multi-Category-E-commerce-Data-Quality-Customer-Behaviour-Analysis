@@ -166,7 +166,7 @@ Products were divided into price bands based on the distribution of positive pri
 ```text
 Multi-Category E-commerce Data Quality & Customer Behaviour Analysis/
 │
-├── python/
+├── notebooks/
 │   ├── 01_data_understanding.ipynb
 │   ├── 02_data_quality_audit.ipynb
 │   ├── 03_data_cleaning.ipynb
